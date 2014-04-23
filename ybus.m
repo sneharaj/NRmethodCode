@@ -1,5 +1,6 @@
 % Function ybus
 % THIS IS THE PROGRAM FOR CREATING Ybus MATRIX.
+%Just a test comment
 
 function [yb,ych]=ybus
 
